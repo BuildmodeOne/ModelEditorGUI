@@ -31,7 +31,7 @@
           "variants": [
             {
               "modelText": {
-                "color": "#00AAAA",
+                "color": "#AAAAAA",
                 "text": "Filled"
               },
               "material": "WHITE_STAINED_GLASS",
@@ -49,7 +49,7 @@
           "variants": [
             {
               "modelText": {
-                "color": "#00AAAA",
+                "color": "#AAAAAA",
                 "text": "Filled"
               },
               "material": "WHITE_STAINED_GLASS",
