@@ -176,8 +176,31 @@
             "color": "#00AAAA",
             "text": "Water Carafe"
           },
+          "material": "WHITE_STAINED_GLASS",
+          "cmd": 1370015
+        }
+      ]
+    },
+    {
+      "categoryName": "Test castegory",
+      "models": [
+        {
+          "modelText": {
+            "color": "#AA0000",
+            "text": "Globe"
+          },
+          "hoverText": {
+            "color": "#AA00AA",
+            "text": "Hover Text"
+          },
           "material": "BARRIER",
-          "cmd": 1370002
+          "cmd": 1370108,
+          "modelOptions": {
+            "rotatingOption": {
+              "material": "BARRIER",
+              "cmd": 1370107
+            }
+          }
         }
       ]
     }
