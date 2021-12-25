@@ -104,6 +104,80 @@
           },
           "material": "BARRIER",
           "cmd": 1370002
+        },
+        {
+          "modelText": {
+            "color": "#00AAAA",
+            "text": "Basket"
+          },
+          "material": "BARRIER",
+          "cmd": 1370036
+        },
+        {
+          "modelText": {
+            "color": "#00AAAA",
+            "text": "Fruit Bowl"
+          },
+          "material": "BARRIER",
+          "cmd": 1370085
+        },
+        {
+          "modelText": {
+            "color": "#00AAAA",
+            "text": "Cutting Board"
+          },
+          "material": "BARRIER",
+          "cmd": 1370098
+        },
+        {
+          "modelText": {
+            "color": "#00AAAA",
+            "text": "Small Cooking Pot"
+          },
+          "material": "BARRIER",
+          "cmd": 1370099
+        },
+        {
+          "variants": [
+            {
+              "modelText": {
+                "color": "#7F3FB2",
+                "text": "%COLOR_BLOCK%"
+              },
+              "material": "WHITE_STAINED_GLASS",
+              "cmd": 1370015
+            },
+            {
+              "modelText": {
+                "color": "#334CB2",
+                "text": "%COLOR_BLOCK%"
+              },
+              "material": "WHITE_STAINED_GLASS",
+              "cmd": 1370012
+            },
+            {
+              "modelText": {
+                "color": "#D87F33",
+                "text": "%COLOR_BLOCK%"
+              },
+              "material": "WHITE_STAINED_GLASS",
+              "cmd": 1370013
+            },
+            {
+              "modelText": {
+                "color": "#E5E533",
+                "text": "%COLOR_BLOCK%"
+              },
+              "material": "WHITE_STAINED_GLASS",
+              "cmd": 1370014
+            }
+          ],
+          "modelText": {
+            "color": "#00AAAA",
+            "text": "Water Carafe"
+          },
+          "material": "BARRIER",
+          "cmd": 1370002
         }
       ]
     }
