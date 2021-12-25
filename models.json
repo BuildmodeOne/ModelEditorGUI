@@ -68,15 +68,15 @@
             {
               "modelText": {
                 "color": "#4F6029",
-                "text": "█"
+                "text": "%COLOR_BLOCK%"
               },
               "material": "BARRIER",
-              "cmd": 1370004
+              "cmd": 1370002
             },
             {
               "modelText": {
                 "color": "#5D4026",
-                "text": "█"
+                "text": "%COLOR_BLOCK%"
               },
               "material": "BARRIER",
               "cmd": 1370069
@@ -84,7 +84,7 @@
             {
               "modelText": {
                 "color": "#2D4963",
-                "text": "█"
+                "text": "%COLOR_BLOCK%"
               },
               "material": "BARRIER",
               "cmd": 1370059
@@ -92,7 +92,7 @@
             {
               "modelText": {
                 "color": "#CCD2D3",
-                "text": "█"
+                "text": "%COLOR_BLOCK%"
               },
               "material": "BARRIER",
               "cmd": 1370003
@@ -103,7 +103,7 @@
             "text": "Bottle"
           },
           "material": "BARRIER",
-          "cmd": 1370004
+          "cmd": 1370002
         }
       ]
     }
