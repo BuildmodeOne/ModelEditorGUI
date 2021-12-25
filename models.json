@@ -1,1 +1,69 @@
-{"categories":[{"categoryName":"Kitchen","models":[{"modelText":{"color":"#00AAAA","text":"Plate"},"material":"BARRIER","cmd":1370004},{"modelText":{"color":"#00AAAA","text":"Fork"},"material":"BARRIER","cmd":1370007},{"modelText":{"color":"#00AAAA","text":"Knife"},"material":"BARRIER","cmd":1370008},{"variants":[{"modelText":{"color":"#00AAAA","text":"Filled"},"material":"WHITE_STAINED_GLASS","cmd":1370002}],"modelText":{"color":"#00AAAA","text":"Wine Glass"},"material":"WHITE_STAINED_GLASS","cmd":1370001},{"variants":[{"modelText":{"color":"#00AAAA","text":"Filled"},"material":"WHITE_STAINED_GLASS","cmd":1370004}],"modelText":{"color":"#00AAAA","text":"Water Glass"},"material":"WHITE_STAINED_GLASS","cmd":1370003}]}]}
+{
+  "categories": [
+    {
+      "categoryName": "Kitchen",
+      "models": [
+        {
+          "modelText": {
+            "color": "#00AAAA",
+            "text": "Plate"
+          },
+          "material": "BARRIER",
+          "cmd": 1370004
+        },
+        {
+          "modelText": {
+            "color": "#00AAAA",
+            "text": "Fork"
+          },
+          "material": "BARRIER",
+          "cmd": 1370007
+        },
+        {
+          "modelText": {
+            "color": "#00AAAA",
+            "text": "Knife"
+          },
+          "material": "BARRIER",
+          "cmd": 1370008
+        },
+        {
+          "variants": [
+            {
+              "modelText": {
+                "color": "#00AAAA",
+                "text": "Filled"
+              },
+              "material": "WHITE_STAINED_GLASS",
+              "cmd": 1370002
+            }
+          ],
+          "modelText": {
+            "color": "#00AAAA",
+            "text": "Wine Glass"
+          },
+          "material": "WHITE_STAINED_GLASS",
+          "cmd": 1370001
+        },
+        {
+          "variants": [
+            {
+              "modelText": {
+                "color": "#00AAAA",
+                "text": "Filled"
+              },
+              "material": "WHITE_STAINED_GLASS",
+              "cmd": 1370004
+            }
+          ],
+          "modelText": {
+            "color": "#00AAAA",
+            "text": "Water Glass"
+          },
+          "material": "WHITE_STAINED_GLASS",
+          "cmd": 1370003
+        }
+      ]
+    }
+  ]
+}
